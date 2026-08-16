@@ -72,7 +72,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74039
+            "stars": 74049
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28757
+            "stars": 28763
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27266
+            "stars": 27267
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23496
+            "stars": 23499
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20846
+            "stars": 20847
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-07-11T20:57:17Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18905
+            "stars": 18907
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-06-12T08:11:59Z",
             "owner": "ujjwalkarn",
             "repo": "Machine-Learning-Tutorials",
-            "stars": 18100
+            "stars": 18105
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12499
+            "stars": 12501
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-07-23T07:30:19Z",
             "owner": "datalab-to",
             "repo": "surya",
-            "stars": 21277
+            "stars": 21284
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5992
+            "stars": 5993
           }
         },
         {
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:55:47.445Z",
+    "last_updated": "2026-08-16T13:56:27.035Z",
     "original_repository": "AI4LAM/awesome-ai4lam",
     "original_repository_sha": "c83d50bfe65143797ddeaaee39610b484862acfb",
     "enhanced_repository": "enhansome/enhansome-ai4lam",
