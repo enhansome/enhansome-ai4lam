@@ -1,486 +1,483 @@
 {
   "items": [
     {
-      "description": "This list is a collection of resources, tools, projects, and other materials for professionals and enthusiasts in the Libraries, Archives, and Museums (LAM) sector. You might also know this as the GLAM (galleries, libraries, archives and museums) or CHI (cultural heritage institutions) sector, or be more familiar with the term 'memory institutions'. However you describe the field, if you know of an AI, machine learning, big data or data science project, event or resource related to collections, please share it here!\nThis list is maintained by the AI4LAM community. Its aim is to support knowledge sharing, innovation, and collaboration in applying AI to LAM.",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
       "description": "Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NLP course",
+              "description": "and associated GitHub repo – by Elena Voita",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147919799,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-01T14:51:30Z",
+                "owner": "yandexdataschool",
+                "repo": "nlp_course",
+                "stars": 10655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NLP in Python - Quickstart Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124725025,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-01-31T06:31:21Z",
+                "owner": "NirantK",
+                "repo": "NLP_Quickbook",
+                "stars": 605
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hands-on NLTK Tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126728727,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-17T11:45:57Z",
+                "owner": "hb20007",
+                "repo": "hands-on-nltk-tutorial",
+                "stars": 572
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Natural language processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Machine Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-11T21:49:59Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28723659,
+                "language": null,
+                "last_commit": "2025-05-26T12:28:00Z",
+                "owner": "ChristosChristofidis",
+                "repo": "awesome-deep-learning",
+                "stars": 28778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603049672,
+                "language": null,
+                "last_commit": "2025-07-31T02:38:24Z",
+                "owner": "Hannibal046",
+                "repo": "Awesome-LLM",
+                "stars": 27271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Computer Vision",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29357796,
+                "language": null,
+                "last_commit": "2024-05-17T14:24:27Z",
+                "owner": "jbhuang0604",
+                "repo": "awesome-computer-vision",
+                "stars": 23504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Production Machine Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144863525,
+                "language": null,
+                "last_commit": "2026-08-12T19:22:45Z",
+                "owner": "EthicalML",
+                "repo": "awesome-production-machine-learning",
+                "stars": 20853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome NLP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47184304,
+                "language": null,
+                "last_commit": "2026-08-18T21:35:47Z",
+                "owner": "keon",
+                "repo": "awesome-nlp",
+                "stars": 18907
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Machine Learning & Deep Learning Tutorials",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42360601,
+                "language": null,
+                "last_commit": "2024-06-12T08:11:59Z",
+                "owner": "ujjwalkarn",
+                "repo": "Machine-Learning-Tutorials",
+                "stars": 18109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Generative AI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554771302,
+                "language": null,
+                "last_commit": "2026-08-03T10:58:05Z",
+                "owner": "steven2358",
+                "repo": "awesome-generative-ai",
+                "stars": 12514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Vision",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35812923,
+                "language": null,
+                "last_commit": "2023-08-15T10:52:15Z",
+                "owner": "kjw0612",
+                "repo": "awesome-deep-vision",
+                "stars": 11183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Visual Transformer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318087408,
+                "language": null,
+                "last_commit": "2025-01-07T01:59:49Z",
+                "owner": "dk-liang",
+                "repo": "Awesome-Visual-Transformer",
+                "stars": 3590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Image Classification",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4420796,
+                "language": null,
+                "last_commit": "2022-04-20T15:52:51Z",
+                "owner": "weiaicunzai",
+                "repo": "awesome-image-classification",
+                "stars": 3060
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Learning Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74903728,
+                "language": null,
+                "last_commit": "2024-01-18T13:35:40Z",
+                "owner": "guillaume-chevalier",
+                "repo": "Awesome-Deep-Learning-Resources",
+                "stars": 1814
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Document Understanding",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355337917,
+                "language": null,
+                "last_commit": "2023-06-02T03:56:06Z",
+                "owner": "tstanislawek",
+                "repo": "awesome-document-understanding",
+                "stars": 1535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Software Engineering for Machine Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236980532,
+                "language": null,
+                "last_commit": "2024-03-26T22:53:29Z",
+                "owner": "SE-ML",
+                "repo": "awesome-seml",
+                "stars": 1366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Learning for Natural Language Processing (NLP)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60412130,
+                "language": null,
+                "last_commit": "2026-01-24T00:32:10Z",
+                "owner": "brianspiering",
+                "repo": "awesome-dl4nlp",
+                "stars": 1308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Natural Language Generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212309257,
+                "language": null,
+                "last_commit": "2023-09-03T09:17:31Z",
+                "owner": "accelerated-text",
+                "repo": "awesome-nlg",
+                "stars": 482
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome XAI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343799272,
+                "language": null,
+                "last_commit": "2021-05-04T13:47:04Z",
+                "owner": "altamiracorp",
+                "repo": "awesome-xai",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Jupyter GLAM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145719116,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-10-06T16:23:35Z",
+                "owner": "LibraryCarpentry",
+                "repo": "awesome-jupyter-glam",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other \"awesome\" lists in AI and ML"
+        }
+      ],
       "title": "Learning Resources"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NLP course",
-          "description": "and associated GitHub repo – by Elena Voita",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-06-01T14:51:30Z",
-            "owner": "yandexdataschool",
-            "repo": "nlp_course",
-            "stars": 10653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NLP in Python - Quickstart Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-01-31T06:31:21Z",
-            "owner": "NirantK",
-            "repo": "NLP_Quickbook",
-            "stars": 605
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hands-on NLTK Tutorial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-04-17T11:45:57Z",
-            "owner": "hb20007",
-            "repo": "hands-on-nltk-tutorial",
-            "stars": 572
-          }
-        }
-      ],
-      "title": "Natural language processing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Machine Learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T21:49:59Z",
-            "owner": "josephmisiti",
-            "repo": "awesome-machine-learning",
-            "stars": 74056
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-05-26T12:28:00Z",
-            "owner": "ChristosChristofidis",
-            "repo": "awesome-deep-learning",
-            "stars": 28771
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-31T02:38:24Z",
-            "owner": "Hannibal046",
-            "repo": "Awesome-LLM",
-            "stars": 27269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Computer Vision",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-05-17T14:24:27Z",
-            "owner": "jbhuang0604",
-            "repo": "awesome-computer-vision",
-            "stars": 23503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Production Machine Learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-12T19:22:45Z",
-            "owner": "EthicalML",
-            "repo": "awesome-production-machine-learning",
-            "stars": 20852
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome NLP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-11T20:57:17Z",
-            "owner": "keon",
-            "repo": "awesome-nlp",
-            "stars": 18906
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Machine Learning & Deep Learning Tutorials",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-12T08:11:59Z",
-            "owner": "ujjwalkarn",
-            "repo": "Machine-Learning-Tutorials",
-            "stars": 18108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Generative AI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-03T10:58:05Z",
-            "owner": "steven2358",
-            "repo": "awesome-generative-ai",
-            "stars": 12509
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Vision",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-08-15T10:52:15Z",
-            "owner": "kjw0612",
-            "repo": "awesome-deep-vision",
-            "stars": 11183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Visual Transformer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-07T01:59:49Z",
-            "owner": "dk-liang",
-            "repo": "Awesome-Visual-Transformer",
-            "stars": 3590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Image Classification",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-04-20T15:52:51Z",
-            "owner": "weiaicunzai",
-            "repo": "awesome-image-classification",
-            "stars": 3059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-18T13:35:40Z",
-            "owner": "guillaume-chevalier",
-            "repo": "Awesome-Deep-Learning-Resources",
-            "stars": 1814
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Document Understanding",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-06-02T03:56:06Z",
-            "owner": "tstanislawek",
-            "repo": "awesome-document-understanding",
-            "stars": 1535
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Software Engineering for Machine Learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-26T22:53:29Z",
-            "owner": "SE-ML",
-            "repo": "awesome-seml",
-            "stars": 1366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Learning for Natural Language Processing (NLP)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-24T00:32:10Z",
-            "owner": "brianspiering",
-            "repo": "awesome-dl4nlp",
-            "stars": 1308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Natural Language Generation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-03T09:17:31Z",
-            "owner": "accelerated-text",
-            "repo": "awesome-nlg",
-            "stars": 482
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome XAI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-05-04T13:47:04Z",
-            "owner": "altamiracorp",
-            "repo": "awesome-xai",
-            "stars": 195
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Jupyter GLAM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2021-10-06T16:23:35Z",
-            "owner": "LibraryCarpentry",
-            "repo": "awesome-jupyter-glam",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Other \"awesome\" lists in AI and ML"
-    },
-    {
       "description": "Note: datasets for training and testing are listed in a separate section of this document.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Surya",
+              "description": "multilingual document OCR toolkit with line-level text detection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 741297064,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:10:34Z",
+                "owner": "datalab-to",
+                "repo": "surya",
+                "stars": 21294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTRFLOW demo",
+              "description": "and associated GitHub repo – explore AI models for Handwritten Text Recogntion (Swedish National Archives)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660161680,
+                "language": "HTML",
+                "last_commit": "2026-03-19T10:47:45Z",
+                "owner": "AI-Riksarkivet",
+                "repo": "htrflow_app",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distributed Annotation 'n' Enrichment (DANE)",
+              "description": "compute task assignment & file storage for automatic annotation of content (CLARIAH, Norway)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223967932,
+                "language": "Python",
+                "last_commit": "2024-08-02T06:46:26Z",
+                "owner": "CLARIAH",
+                "repo": "DANE",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Document analysis, transcription, and labeling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Swedish BERT",
+              "description": "BERT model for the Swedish language (Royal Library of Sweden)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237437639,
+                "language": null,
+                "last_commit": "2020-10-15T21:16:59Z",
+                "owner": "Kungbib",
+                "repo": "swedish-bert-models",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Norwegian Transformer Model (NoTraM)",
+              "description": "transformer model for Norwegian and Nordic languages (National Library of Norway)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296263400,
+                "language": "Shell",
+                "last_commit": "2026-01-11T13:37:35Z",
+                "owner": "NbAiLab",
+                "repo": "notram",
+                "stars": 122
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications of Transformers, LLMs, and GPT"
+        }
+      ],
       "title": "Tools and Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Surya",
-          "description": "multilingual document OCR toolkit with line-level text detection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T07:30:19Z",
-            "owner": "datalab-to",
-            "repo": "surya",
-            "stars": 21293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTRFLOW demo",
-          "description": "and associated GitHub repo – explore AI models for Handwritten Text Recogntion (Swedish National Archives)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-03-19T10:47:45Z",
-            "owner": "AI-Riksarkivet",
-            "repo": "htrflow_app",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distributed Annotation 'n' Enrichment (DANE)",
-          "description": "compute task assignment & file storage for automatic annotation of content (CLARIAH, Norway)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-02T06:46:26Z",
-            "owner": "CLARIAH",
-            "repo": "DANE",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nlp-datasets",
+              "description": "free/public domain datasets with text data for use in NLP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54647141,
+                "language": null,
+                "last_commit": "2023-02-15T13:58:35Z",
+                "owner": "niderhoff",
+                "repo": "nlp-datasets",
+                "stars": 5995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gensim datasets",
+              "description": "repository of datasets for unstructured text processing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106859079,
+                "language": "Python",
+                "last_commit": "2018-03-16T13:55:53Z",
+                "owner": "piskvorky",
+                "repo": "gensim-data",
+                "stars": 1058
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets available elsewhere"
         }
       ],
-      "title": "Document analysis, transcription, and labeling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Swedish BERT",
-          "description": "BERT model for the Swedish language (Royal Library of Sweden)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-10-15T21:16:59Z",
-            "owner": "Kungbib",
-            "repo": "swedish-bert-models",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Norwegian Transformer Model (NoTraM)",
-          "description": "transformer model for Norwegian and Nordic languages (National Library of Norway)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-11T13:37:35Z",
-            "owner": "NbAiLab",
-            "repo": "notram",
-            "stars": 122
-          }
-        }
-      ],
-      "title": "Applications of Transformers, LLMs, and GPT"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nlp-datasets",
-          "description": "free/public domain datasets with text data for use in NLP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-15T13:58:35Z",
-            "owner": "niderhoff",
-            "repo": "nlp-datasets",
-            "stars": 5994
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gensim datasets",
-          "description": "repository of datasets for unstructured text processing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-03-16T13:55:53Z",
-            "owner": "piskvorky",
-            "repo": "gensim-data",
-            "stars": 1058
-          }
-        }
-      ],
-      "title": "Datasets available elsewhere"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Projects, Initiatives, and Case Studies"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Policies and recommendations"
-    },
-    {
-      "description": "The annual Fantastic Futures conference is the main conference series for the AI4LAM community. Various other conferences and workshops are relevant to the community and may be included in the list below.",
-      "items": [],
-      "title": "Conferences and Workshops"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Publications and News Sources"
-    },
-    {
-      "description": "The AI4LAM community's home page is https://ai4lam.org. The secretariat and other contact addresses can be found at the About page.",
-      "items": [],
-      "title": "Community"
-    },
-    {
-      "description": "Your help and participation in enhancing this awesome list are very much welcome! Please use the issue ticket system to request additions or changes, or to make other contributions to this repository. For more information, please visit the guidelines for contributing.",
-      "items": [],
-      "title": "Contributions"
-    },
-    {
-      "description": "The contents of this page are licensed under the Creative Commons CC0 1.0 Universal license. CC0 is a “no rights reserved” license; the authors relinquish copyright and similar rights to the contents of the Awesome AI for LAM list.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:16:03.355Z",
+    "last_updated": "2026-08-19T12:17:14.520Z",
     "original_repository": "AI4LAM/awesome-ai4lam",
+    "original_repository_id": 720254880,
     "original_repository_sha": "c83d50bfe65143797ddeaaee39610b484862acfb",
     "enhanced_repository": "enhansome/enhansome-ai4lam",
     "enhanced_repository_description": null,
