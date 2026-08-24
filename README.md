@@ -88,7 +88,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Generative AI
 
-* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 81,956 | 🐛 88 | 📅 2026-02-05
+* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 81,957 | 🐛 88 | 📅 2026-02-05
 * [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 * [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 * [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
@@ -110,7 +110,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,142 | 🐛 26 | 🌐 Python | 📅 2026-08-21
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 28,804 | 🐛 84 | 📅 2025-05-26
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,279 | 🐛 445 | 📅 2025-07-31
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,280 | 🐛 445 | 📅 2025-07-31
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,517 | 🐛 91 | 📅 2024-05-17
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 20,864 | 🐛 31 | 📅 2026-08-12
 * [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 18,926 | 🐛 13 | 📅 2026-08-18
