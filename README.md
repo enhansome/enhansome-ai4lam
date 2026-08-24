@@ -2,9 +2,9 @@
 
 A curated list of resources, projects, and tools for using Artificial Intelligence in Libraries, Archives, and Museums.
 
-[![License](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-square)](https://github.com/AI4LAM/awesome-ai4lam/blob/master/LICENSE) ⭐ 183 | 🐛 87 | 🌐 SCSS | 📅 2024-06-17
+[![License](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-square)](https://github.com/AI4LAM/awesome-ai4lam/blob/master/LICENSE) ⭐ 183 | 🐛 88 | 🌐 SCSS | 📅 2024-06-17
 ![Maintained?](https://img.shields.io/badge/Maintained%3F%2dyes-forestgreen.svg?style=flat-square)
-[![Last commit](https://img.shields.io/github/last-commit/AI4LAM/awesome-ai4lam.svg?style=flat-square\&color=orange\&label=Last%20commit)](https://github.com/AI4LAM/awesome-ai4lam/commits/main/) ⭐ 183 | 🐛 87 | 🌐 SCSS | 📅 2024-06-17
+[![Last commit](https://img.shields.io/github/last-commit/AI4LAM/awesome-ai4lam.svg?style=flat-square\&color=orange\&label=Last%20commit)](https://github.com/AI4LAM/awesome-ai4lam/commits/main/) ⭐ 183 | 🐛 88 | 🌐 SCSS | 📅 2024-06-17
 ![GitHub contributors](https://img.shields.io/github/contributors/AI4LAM/awesome-ai4lam?label=Contributors\&style=flat-square\&color=a44e88)
 [![Mastodon](https://img.shields.io/badge/Mastodon-7334cF?style=flat-square\&logo=Mastodon\&logoColor=white)](https://glammr.us/@AI4LAM)
 [![Slack](https://img.shields.io/badge/Slack-5A255B?style=flat-square\&logo=slack\&logoColor=white)](https://ai4lam.slack.com/join/shared_invite/zt-1omthldn8-9vrGySjIRdija1nKQm0ltA#/)
@@ -77,7 +77,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Natural language processing
 
-* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,654 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-06-01 – by Elena Voita
+* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,654 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24 – by Elena Voita
 * [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook#readme) ⭐ 605 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-01-31
 * [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme) ⭐ 572 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-17
 * [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
@@ -88,6 +88,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Generative AI
 
+* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 81,956 | 🐛 88 | 📅 2026-02-05
 * [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 * [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 * [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
@@ -98,7 +99,6 @@ Please note: the appearance of a resource on this list does not constitute an of
 * [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
 * [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
 * [Understanding LLMs – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 81,931 | 🐛 88 | 📅 2026-02-05
 * [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 
 ### AI in galleries, libraries, archives and museums
@@ -108,16 +108,16 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Other "awesome" lists in AI and ML
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,124 | 🐛 26 | 🌐 Python | 📅 2026-08-21
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 28,801 | 🐛 84 | 📅 2025-05-26
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,275 | 🐛 443 | 📅 2025-07-31
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,512 | 🐛 91 | 📅 2024-05-17
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,142 | 🐛 26 | 🌐 Python | 📅 2026-08-21
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 28,804 | 🐛 84 | 📅 2025-05-26
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,279 | 🐛 445 | 📅 2025-07-31
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,517 | 🐛 91 | 📅 2024-05-17
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 20,864 | 🐛 31 | 📅 2026-08-12
-* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 18,924 | 🐛 13 | 📅 2026-08-18
-* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,140 | 🐛 47 | 📅 2024-06-12
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,528 | 🐛 600 | 📅 2026-08-03
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15
-* [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme) ⭐ 3,590 | 🐛 3 | 📅 2025-01-07
+* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 18,926 | 🐛 13 | 📅 2026-08-18
+* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,141 | 🐛 47 | 📅 2024-06-12
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,529 | 🐛 605 | 📅 2026-08-03
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15
+* [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme) ⭐ 3,591 | 🐛 3 | 📅 2025-01-07
 * [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme) ⭐ 3,062 | 🐛 1 | 📅 2022-04-20
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme) ⭐ 1,814 | 🐛 15 | 📅 2024-01-18
 * [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding#readme) ⭐ 1,534 | 🐛 12 | 📅 2023-06-02
@@ -134,7 +134,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 ### Document analysis, transcription, and labeling
 
-* [Surya](https://github.com/VikParuchuri/surya#readme) ⭐ 21,312 | 🐛 194 | 🌐 Python | 📅 2026-08-21 – multilingual document OCR toolkit with line-level text detection
+* [Surya](https://github.com/VikParuchuri/surya#readme) ⭐ 21,313 | 🐛 194 | 🌐 Python | 📅 2026-08-21 – multilingual document OCR toolkit with line-level text detection
 * [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2026-03-19 – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 * [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2024-08-02 – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
 * [Arkindex](https://teklia.com/blog/arkindex-goes-open-source/) – open-source platform for managing & processing collections of digitized documents
@@ -147,12 +147,12 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 ### Audio and video analysis, transcription, and labeling
 
+* [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) ⭐ 24 | 🐛 10 | 🌐 Python | 📅 2024-10-07 – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 * [Acoustic models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 * [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
 * [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 * [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
 * [ELAN](https://archive.mpi.nl/tla/elan) – addS textual annotations to audio and/or video recordings (Max Planck Institute for Psycholinguistics, The Netherlands)
-* [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) ⭐ 24 | 🐛 10 | 🌐 Python | 📅 2024-10-07 – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 * [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the *Chronicling America* digitized newspaper collection (Library of Congress, USA)
 * [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
 * [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
@@ -310,7 +310,7 @@ The AI4LAM community's home page is [https://ai4lam.org](https://ai4lam.org/). T
 
 ## Contributions
 
-Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system](https://github.com/AI4LAM/awesome-ai4lam/issues) ⭐ 183 | 🐛 87 | 🌐 SCSS | 📅 2024-06-17 to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](CONTRIBUTING.md).
+Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system](https://github.com/AI4LAM/awesome-ai4lam/issues) ⭐ 183 | 🐛 88 | 🌐 SCSS | 📅 2024-06-17 to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](CONTRIBUTING.md).
 
 <p align="center">
 <a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5">
@@ -326,4 +326,4 @@ The contents of this page are licensed under the [Creative Commons CC0 1.0 Unive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

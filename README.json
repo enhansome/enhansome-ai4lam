@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 147919799,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-06-01T14:51:30Z",
+                "last_commit": "2026-08-24T10:40:57Z",
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
                 "stars": 10654
@@ -59,6 +59,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Large Language Model Course",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655099582,
+                "language": null,
+                "last_commit": "2026-02-05T13:09:26Z",
+                "owner": "mlabonne",
+                "repo": "llm-course",
+                "stars": 81956
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generative AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome Machine Learning",
               "description": null,
               "children": [],
@@ -69,7 +91,7 @@
                 "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74124
+                "stars": 74142
               }
             },
             {
@@ -84,7 +106,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28801
+                "stars": 28804
               }
             },
             {
@@ -99,7 +121,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27275
+                "stars": 27279
               }
             },
             {
@@ -114,7 +136,7 @@
                 "last_commit": "2024-05-17T14:24:27Z",
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23512
+                "stars": 23517
               }
             },
             {
@@ -144,7 +166,7 @@
                 "last_commit": "2026-08-18T21:35:47Z",
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 18924
+                "stars": 18926
               }
             },
             {
@@ -159,7 +181,7 @@
                 "last_commit": "2024-06-12T08:11:59Z",
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18140
+                "stars": 18141
               }
             },
             {
@@ -174,7 +196,7 @@
                 "last_commit": "2026-08-03T10:58:05Z",
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12528
+                "stars": 12529
               }
             },
             {
@@ -189,7 +211,7 @@
                 "last_commit": "2023-08-15T10:52:15Z",
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11185
+                "stars": 11186
               }
             },
             {
@@ -204,7 +226,7 @@
                 "last_commit": "2025-01-07T01:59:49Z",
                 "owner": "dk-liang",
                 "repo": "Awesome-Visual-Transformer",
-                "stars": 3590
+                "stars": 3591
               }
             },
             {
@@ -352,7 +374,7 @@
                 "last_commit": "2026-08-21T10:00:59Z",
                 "owner": "datalab-to",
                 "repo": "surya",
-                "stars": 21312
+                "stars": 21313
               }
             },
             {
@@ -389,6 +411,50 @@
           "description": null,
           "node_type": "group",
           "title": "Document analysis, transcription, and labeling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "inaFaceAnalyzer",
+              "description": "Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239547317,
+                "language": "Python",
+                "last_commit": "2024-10-07T18:06:59Z",
+                "owner": "ina-foss",
+                "repo": "inaFaceAnalyzer",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio and video analysis, transcription, and labeling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Annif",
+              "description": "and associated tutorial – tool for automated subject indexing and classification (National Library of Finland)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212338434,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-20T10:07:30Z",
+                "owner": "NatLibFi",
+                "repo": "Annif-tutorial",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Indexing and classification"
         },
         {
           "children": [
@@ -475,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:57:01.482Z",
+    "last_updated": "2026-08-24T14:39:09.040Z",
     "original_repository": "AI4LAM/awesome-ai4lam",
     "original_repository_id": 720254880,
     "original_repository_sha": "c83d50bfe65143797ddeaaee39610b484862acfb",
