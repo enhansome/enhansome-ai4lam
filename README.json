@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T10:40:57Z",
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10656
+                "stars": 10657
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-04-17T11:45:57Z",
                 "owner": "hb20007",
                 "repo": "hands-on-nltk-tutorial",
-                "stars": 572
+                "stars": 571
               }
             }
           ],
@@ -69,7 +69,7 @@
                 "last_commit": "2026-02-05T13:09:26Z",
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 82015
+                "stars": 82033
               }
             }
           ],
@@ -88,10 +88,10 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:09:24Z",
+                "last_commit": "2026-08-27T15:29:10Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74176
+                "stars": 74184
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28814
+                "stars": 28820
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2024-05-17T14:24:27Z",
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23520
+                "stars": 23521
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-26T05:40:57Z",
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20869
+                "stars": 20870
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2024-06-12T08:11:59Z",
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18141
+                "stars": 18142
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2026-08-03T10:58:05Z",
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12537
+                "stars": 12539
               }
             },
             {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-08-21T10:00:59Z",
                 "owner": "datalab-to",
                 "repo": "surya",
-                "stars": 21318
+                "stars": 21321
               }
             },
             {
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:12.114Z",
+    "last_updated": "2026-08-27T23:02:56.046Z",
     "original_repository_info": {
       "archived": false,
       "id": 720254880,
@@ -549,7 +549,7 @@
       "last_commit": "2024-06-17T16:09:28Z",
       "owner": "AI4LAM",
       "repo": "awesome-ai4lam",
-      "stars": 183
+      "stars": 184
     },
     "original_repository_sha": "c83d50bfe65143797ddeaaee39610b484862acfb",
     "enhanced_repository": "enhansome/enhansome-ai4lam",
