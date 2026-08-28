@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-24T10:40:57Z",
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10657
-              }
+                "stars": 10658
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "NirantK",
                 "repo": "NLP_Quickbook",
                 "stars": 605
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "hb20007",
                 "repo": "hands-on-nltk-tutorial",
                 "stars": 571
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -69,8 +72,9 @@
                 "last_commit": "2026-02-05T13:09:26Z",
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 82033
-              }
+                "stars": 82063
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -91,8 +95,9 @@
                 "last_commit": "2026-08-27T15:29:10Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74184
-              }
+                "stars": 74202
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -106,8 +111,9 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28820
-              }
+                "stars": 28827
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -121,8 +127,9 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27293
-              }
+                "stars": 27298
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -136,8 +143,9 @@
                 "last_commit": "2024-05-17T14:24:27Z",
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23521
-              }
+                "stars": 23520
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -151,8 +159,9 @@
                 "last_commit": "2026-08-26T05:40:57Z",
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20870
-              }
+                "stars": 20877
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -166,8 +175,9 @@
                 "last_commit": "2026-08-18T21:35:47Z",
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 18936
-              }
+                "stars": 18940
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -181,8 +191,9 @@
                 "last_commit": "2024-06-12T08:11:59Z",
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18142
-              }
+                "stars": 18147
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -196,8 +207,9 @@
                 "last_commit": "2026-08-03T10:58:05Z",
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12539
-              }
+                "stars": 12541
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
                 "stars": 11186
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "dk-liang",
                 "repo": "Awesome-Visual-Transformer",
                 "stars": 3592
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "weiaicunzai",
                 "repo": "awesome-image-classification",
                 "stars": 3064
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "Awesome-Deep-Learning-Resources",
                 "stars": 1815
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -271,8 +287,9 @@
                 "last_commit": "2023-06-02T03:56:06Z",
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
-                "stars": 1536
-              }
+                "stars": 1537
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "SE-ML",
                 "repo": "awesome-seml",
                 "stars": 1367
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -301,8 +319,9 @@
                 "last_commit": "2026-01-24T00:32:10Z",
                 "owner": "brianspiering",
                 "repo": "awesome-dl4nlp",
-                "stars": 1309
-              }
+                "stars": 1310
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "accelerated-text",
                 "repo": "awesome-nlg",
                 "stars": 482
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "altamiracorp",
                 "repo": "awesome-xai",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "LibraryCarpentry",
                 "repo": "awesome-jupyter-glam",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -374,8 +396,9 @@
                 "last_commit": "2026-08-21T10:00:59Z",
                 "owner": "datalab-to",
                 "repo": "surya",
-                "stars": 21321
-              }
+                "stars": 21329
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "AI-Riksarkivet",
                 "repo": "htrflow_app",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "CLARIAH",
                 "repo": "DANE",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -427,7 +452,8 @@
                 "owner": "ina-foss",
                 "repo": "inaFaceAnalyzer",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -449,7 +475,8 @@
                 "owner": "NatLibFi",
                 "repo": "Annif-tutorial",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -471,7 +498,8 @@
                 "owner": "Kungbib",
                 "repo": "swedish-bert-models",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -486,7 +514,8 @@
                 "owner": "NbAiLab",
                 "repo": "notram",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -514,7 +543,8 @@
                 "owner": "niderhoff",
                 "repo": "nlp-datasets",
                 "stars": 5995
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             },
             {
               "node_type": "item",
@@ -529,7 +559,8 @@
                 "owner": "piskvorky",
                 "repo": "gensim-data",
                 "stars": 1058
-              }
+              },
+              "first_seen": "2026-08-28T23:11:28.746Z"
             }
           ],
           "description": null,
@@ -541,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:02:56.046Z",
+    "last_updated": "2026-08-28T23:11:28.746Z",
     "original_repository_info": {
       "archived": false,
       "id": 720254880,
