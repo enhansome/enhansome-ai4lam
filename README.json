@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YSDA course in Natural Language Processing",
+                "homepage": "https://lena-voita.github.io/nlp_course.html",
                 "id": 147919799,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:40:57Z",
+                "open_issues": 8,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10658
+                "stars": 10658,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -28,12 +33,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NLP in Python with Deep Learning",
+                "homepage": "https://nirantk.com/NLP_Quickbook",
                 "id": 124725025,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-01-31T06:31:21Z",
+                "open_issues": 5,
                 "owner": "NirantK",
                 "repo": "NLP_Quickbook",
-                "stars": 605
+                "stars": 605,
+                "topics": [
+                  "ensemble",
+                  "language-processing",
+                  "natural-language",
+                  "natural-language-processing",
+                  "nlp",
+                  "practitioners",
+                  "spacy",
+                  "spacy-nlp",
+                  "spell-correction",
+                  "text-classification",
+                  "tutorial-code"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -44,12 +66,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The hands-on NLTK tutorial for NLP in Python",
+                "homepage": null,
                 "id": 126728727,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-04-17T11:45:57Z",
+                "open_issues": 0,
                 "owner": "hb20007",
                 "repo": "hands-on-nltk-tutorial",
-                "stars": 571
+                "stars": 571,
+                "topics": [
+                  "binder",
+                  "didactic",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "jupyter-notebooks",
+                  "nlp",
+                  "nlp-machine-learning",
+                  "nlp-resources",
+                  "nltk",
+                  "nltk-library",
+                  "nltk3",
+                  "notebook",
+                  "notebook-jupyter",
+                  "notebooks",
+                  "tutorial",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -67,12 +111,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+                "homepage": "https://mlabonne.github.io/blog/",
                 "id": 655099582,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-05T13:09:26Z",
+                "open_issues": 89,
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 82063
+                "stars": 82066,
+                "topics": [
+                  "course",
+                  "large-language-models",
+                  "llm",
+                  "machine-learning",
+                  "roadmap"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -90,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -106,12 +166,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+                "homepage": null,
                 "id": 28723659,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-26T12:28:00Z",
+                "open_issues": 84,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28827
+                "stars": 28828,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "deep-learning-tutorial",
+                  "deep-networks",
+                  "face-images",
+                  "machine-learning",
+                  "neural-network",
+                  "recurrent-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -122,12 +197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-LLM: a curated list of Large Language Model",
+                "homepage": null,
                 "id": 603049672,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
+                "open_issues": 443,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27298
+                "stars": 27297,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -138,12 +218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome computer vision resources",
+                "homepage": null,
                 "id": 29357796,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-17T14:24:27Z",
+                "open_issues": 92,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23520
+                "stars": 23520,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -154,12 +239,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+                "homepage": "https://ethicalml.github.io/awesome-production-machine-learning",
                 "id": 144863525,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-26T05:40:57Z",
+                "open_issues": 32,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20877
+                "stars": 20877,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data-mining",
+                  "deep-learning",
+                  "explainability",
+                  "interpretability",
+                  "large-scale-machine-learning",
+                  "large-scale-ml",
+                  "machine-learning",
+                  "machine-learning-operations",
+                  "ml-operations",
+                  "ml-ops",
+                  "mlops",
+                  "privacy-preserving",
+                  "privacy-preserving-machine-learning",
+                  "privacy-preserving-ml",
+                  "production-machine-learning",
+                  "production-ml",
+                  "responsible-ai"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -170,12 +280,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+                "homepage": null,
                 "id": 47184304,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-18T21:35:47Z",
+                "open_issues": 15,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 18940
+                "stars": 18940,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "language",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "text-mining"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -186,12 +310,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "machine learning and deep learning tutorials, articles and other resources ",
+                "homepage": "http://ujjwalkarn.github.io/Machine-Learning-Tutorials",
                 "id": 42360601,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-06-12T08:11:59Z",
+                "open_issues": 47,
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18147
+                "stars": 18147,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "deep-learning-tutorial",
+                  "deep-neural-networks",
+                  "deeplearning",
+                  "list",
+                  "machine-learning",
+                  "machinelearning",
+                  "neural-network",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -202,12 +343,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+                "homepage": null,
                 "id": 554771302,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-03T10:58:05Z",
+                "open_issues": 612,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12541
+                "stars": 12542,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "awesome",
+                  "awesome-list",
+                  "generative-ai",
+                  "generative-art",
+                  "large-language-models",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -218,12 +373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of deep learning resources for computer vision ",
+                "homepage": null,
                 "id": 35812923,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-15T10:52:15Z",
+                "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11186
+                "stars": 11186,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -234,12 +394,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
+                "homepage": null,
                 "id": 318087408,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-07T01:59:49Z",
+                "open_issues": 3,
                 "owner": "dk-liang",
                 "repo": "Awesome-Visual-Transformer",
-                "stars": 3592
+                "stars": 3592,
+                "topics": [
+                  "detr",
+                  "transformer",
+                  "transformer-awesome",
+                  "transformer-cv",
+                  "transformer-with-cv",
+                  "visual-transformer"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -250,12 +422,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of deep learning image classification papers and codes",
+                "homepage": null,
                 "id": 4420796,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-04-20T15:52:51Z",
+                "open_issues": 1,
                 "owner": "weiaicunzai",
                 "repo": "awesome-image-classification",
-                "stars": 3064
+                "stars": 3064,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-vision",
+                  "deep-learning",
+                  "image-classification",
+                  "papers"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -266,12 +450,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
+                "homepage": null,
                 "id": 74903728,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-01-18T13:35:40Z",
+                "open_issues": 15,
                 "owner": "guillaume-chevalier",
                 "repo": "Awesome-Deep-Learning-Resources",
-                "stars": 1815
+                "stars": 1815,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cnn",
+                  "deep-learning",
+                  "lstm",
+                  "machine-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -282,12 +479,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources for Document Understanding (DU) topic",
+                "homepage": null,
                 "id": 355337917,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-02T03:56:06Z",
+                "open_issues": 12,
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
-                "stars": 1537
+                "stars": 1537,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "document-ai",
+                  "document-analysis",
+                  "document-intelligence",
+                  "document-layout-analysis",
+                  "document-understanding",
+                  "information-extraction",
+                  "intelligent-processing",
+                  "key-information-extraction",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "ocr",
+                  "pdf",
+                  "pdf-documents",
+                  "robotic-process-automation",
+                  "rpa",
+                  "unstructured-data"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -298,12 +521,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
+                "homepage": null,
                 "id": 236980532,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-03-26T22:53:29Z",
+                "open_issues": 10,
                 "owner": "SE-ML",
                 "repo": "awesome-seml",
-                "stars": 1367
+                "stars": 1367,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "machine-learning",
+                  "ml-ops",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -314,12 +549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Deep Learning (DL) for Natural Language Processing (NLP) resources",
+                "homepage": null,
                 "id": 60412130,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-24T00:32:10Z",
+                "open_issues": 1,
                 "owner": "brianspiering",
                 "repo": "awesome-dl4nlp",
-                "stars": 1310
+                "stars": 1310,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -330,12 +570,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",
+                "homepage": null,
                 "id": 212309257,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-09-03T09:17:31Z",
+                "open_issues": 1,
                 "owner": "accelerated-text",
                 "repo": "awesome-nlg",
-                "stars": 482
+                "stars": 482,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "natural-language-generation",
+                  "natural-language-understanding",
+                  "nlg"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -346,12 +597,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources",
+                "homepage": null,
                 "id": 343799272,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-04T13:47:04Z",
+                "open_issues": 1,
                 "owner": "altamiracorp",
                 "repo": "awesome-xai",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "explanations",
+                  "saliency-maps",
+                  "saliency-methods",
+                  "xai"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -362,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Jupyter projects and guides from the GLAM community.",
+                "homepage": null,
                 "id": 145719116,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-06T16:23:35Z",
+                "open_issues": 0,
                 "owner": "LibraryCarpentry",
                 "repo": "awesome-jupyter-glam",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -391,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+                "homepage": "https://www.datalab.to",
                 "id": 741297064,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T10:00:59Z",
+                "open_issues": 194,
                 "owner": "datalab-to",
                 "repo": "surya",
-                "stars": 21329
+                "stars": 21329,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -407,12 +680,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo work as a sandbox enviroment for htrflow.",
+                "homepage": "https://huggingface.co/spaces/Riksarkivet/htr_demo",
                 "id": 660161680,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-19T10:47:45Z",
+                "open_issues": 1,
                 "owner": "AI-Riksarkivet",
                 "repo": "htrflow_app",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "demo",
+                  "gradio",
+                  "htr"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -423,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utils for working with the Distributed Annotation 'n' Enrichment (DANE) system",
+                "homepage": "https://dane.readthedocs.io/en/latest/",
                 "id": 223967932,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-02T06:46:26Z",
+                "open_issues": 3,
                 "owner": "CLARIAH",
                 "repo": "DANE",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -446,12 +733,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "INA's library with pretrained models for gender and age prediction from faces.",
+                "homepage": null,
                 "id": 239547317,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-07T18:06:59Z",
+                "open_issues": 10,
                 "owner": "ina-foss",
                 "repo": "inaFaceAnalyzer",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "age",
+                  "age-bias",
+                  "age-estimation",
+                  "age-gender-estimation",
+                  "ass-subtitles",
+                  "deeplearning",
+                  "digital-humanities",
+                  "face",
+                  "face-analysis",
+                  "face-classification",
+                  "face-detection",
+                  "face-tracking",
+                  "gender",
+                  "gender-bias",
+                  "gender-classification",
+                  "gender-classifier",
+                  "pretrained-models",
+                  "python",
+                  "racial-bias",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -469,12 +782,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instructions, exercises and example data sets for Annif hands-on tutorial",
+                "homepage": null,
                 "id": 212338434,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-07-20T10:07:30Z",
+                "open_issues": 3,
                 "owner": "NatLibFi",
                 "repo": "Annif-tutorial",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "annif",
+                  "code4lib",
+                  "glam",
+                  "machine-learning",
+                  "multilabel-classification",
+                  "open-educational-resources",
+                  "subject-indexing",
+                  "text-classification",
+                  "tutorial",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -492,12 +821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 237437639,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-15T21:16:59Z",
+                "open_issues": 7,
                 "owner": "Kungbib",
                 "repo": "swedish-bert-models",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -508,12 +842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Norwegian Transformer Model",
+                "homepage": null,
                 "id": 296263400,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-11T13:37:35Z",
+                "open_issues": 3,
                 "owner": "NbAiLab",
                 "repo": "notram",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -537,12 +876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)",
+                "homepage": null,
                 "id": 54647141,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-15T13:58:35Z",
+                "open_issues": 12,
                 "owner": "niderhoff",
                 "repo": "nlp-datasets",
-                "stars": 5995
+                "stars": 5995,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             },
@@ -553,12 +897,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data repository for pretrained NLP models and NLP corpora.",
+                "homepage": "https://rare-technologies.com/new-api-for-pretrained-nlp-models-and-datasets-in-gensim/",
                 "id": 106859079,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2018-03-16T13:55:53Z",
+                "open_issues": 20,
                 "owner": "piskvorky",
                 "repo": "gensim-data",
-                "stars": 1058
+                "stars": 1058,
+                "topics": [
+                  "corpora",
+                  "dataset",
+                  "gensim",
+                  "glove-model",
+                  "lda-model",
+                  "lsi-model",
+                  "pretrained-models",
+                  "word2vec-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
             }
@@ -572,15 +930,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:11:28.746Z",
+    "last_updated": "2026-08-29T04:51:32.866Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️",
+      "homepage": "https://ai4lam.github.io/awesome-ai4lam/",
       "id": 720254880,
       "language": "SCSS",
+      "license": "CC0-1.0",
       "last_commit": "2024-06-17T16:09:28Z",
+      "open_issues": 88,
       "owner": "AI4LAM",
       "repo": "awesome-ai4lam",
-      "stars": 184
+      "stars": 184,
+      "topics": [
+        "ai",
+        "ai-in-libraries",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-resources",
+        "libraries",
+        "library-automation",
+        "library-systems",
+        "machine-learning",
+        "machine-learning-projects",
+        "machinelearning",
+        "ml-in-libraries",
+        "natural-language-processing"
+      ]
     },
     "original_repository_sha": "c83d50bfe65143797ddeaaee39610b484862acfb",
     "enhanced_repository": "enhansome/enhansome-ai4lam",

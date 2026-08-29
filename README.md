@@ -88,7 +88,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Generative AI
 
-* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 82,063 | 🐛 89 | 📅 2026-02-05
+* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 82,066 | 🐛 89 | 📅 2026-02-05
 * [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 * [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 * [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
@@ -109,13 +109,13 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Other "awesome" lists in AI and ML
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,202 | 🐛 29 | 🌐 Python | 📅 2026-08-27
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 28,827 | 🐛 84 | 📅 2025-05-26
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,298 | 🐛 443 | 📅 2025-07-31
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 28,828 | 🐛 84 | 📅 2025-05-26
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,297 | 🐛 443 | 📅 2025-07-31
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,520 | 🐛 92 | 📅 2024-05-17
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 20,877 | 🐛 32 | 📅 2026-08-26
 * [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 18,940 | 🐛 15 | 📅 2026-08-18
 * [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,147 | 🐛 47 | 📅 2024-06-12
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,541 | 🐛 612 | 📅 2026-08-03
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,542 | 🐛 612 | 📅 2026-08-03
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15
 * [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme) ⭐ 3,592 | 🐛 3 | 📅 2025-01-07
 * [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme) ⭐ 3,064 | 🐛 1 | 📅 2022-04-20
@@ -326,4 +326,4 @@ The contents of this page are licensed under the [Creative Commons CC0 1.0 Unive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
