@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10658,
+                "stars": 10659,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -117,10 +117,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-05T13:09:26Z",
-                "open_issues": 89,
+                "open_issues": 88,
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 82066,
+                "stars": 82086,
                 "topics": [
                   "course",
                   "large-language-models",
@@ -151,10 +151,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202,
+                "stars": 74205,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -175,7 +175,7 @@
                 "open_issues": 84,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28828,
+                "stars": 28832,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -206,7 +206,7 @@
                 "open_issues": 443,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27297,
+                "stars": 27301,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -286,10 +286,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-18T21:35:47Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 18940,
+                "stars": 18942,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -319,7 +319,7 @@
                 "open_issues": 47,
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18147,
+                "stars": 18148,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -349,10 +349,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T10:58:05Z",
-                "open_issues": 612,
+                "open_issues": 613,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12542,
+                "stars": 12541,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -665,10 +665,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-21T10:00:59Z",
-                "open_issues": 194,
+                "open_issues": 195,
                 "owner": "datalab-to",
                 "repo": "surya",
-                "stars": 21329,
+                "stars": 21333,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:51:32.866Z",
+    "last_updated": "2026-08-29T17:21:40.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️",
