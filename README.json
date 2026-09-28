@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10702,
+                "stars": 10704,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -120,7 +120,7 @@
                 "open_issues": 91,
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 83182,
+                "stars": 83199,
                 "topics": [
                   "course",
                   "large-language-models",
@@ -154,7 +154,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74468,
+                "stars": 74480,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -175,7 +175,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28982,
+                "stars": 28988,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -203,10 +203,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 464,
+                "open_issues": 465,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27424,
+                "stars": 27429,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -227,7 +227,7 @@
                 "open_issues": 99,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23573,
+                "stars": 23575,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -248,7 +248,7 @@
                 "open_issues": 37,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20955,
+                "stars": 20961,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 24,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 19040,
+                "stars": 19045,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -319,7 +319,7 @@
                 "open_issues": 49,
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18232,
+                "stars": 18234,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -349,10 +349,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-16T21:39:51Z",
-                "open_issues": 734,
+                "open_issues": 743,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12688,
+                "stars": 12693,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -382,7 +382,7 @@
                 "open_issues": 49,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11187,
+                "stars": 11185,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -668,7 +668,7 @@
                 "open_issues": 198,
                 "owner": "datalab-to",
                 "repo": "surya",
-                "stars": 21421,
+                "stars": 21425,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -906,7 +906,7 @@
                 "open_issues": 20,
                 "owner": "piskvorky",
                 "repo": "gensim-data",
-                "stars": 1057,
+                "stars": 1058,
                 "topics": [
                   "corpora",
                   "dataset",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:55:53.571Z",
+    "last_updated": "2026-09-28T20:13:11.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️",
@@ -939,7 +939,7 @@
       "language": "SCSS",
       "license": "CC0-1.0",
       "last_commit": "2024-06-17T16:09:28Z",
-      "open_issues": 90,
+      "open_issues": 91,
       "owner": "AI4LAM",
       "repo": "awesome-ai4lam",
       "stars": 185,
