@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10712,
+                "stars": 10713,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "NLP in Python - Quickstart Guide",
-              "description": null,
+              "description": "NirantK/NLP_Quickbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -62,7 +62,7 @@
             {
               "node_type": "item",
               "title": "Hands-on NLTK Tutorial",
-              "description": null,
+              "description": "hb20007/hands-on-nltk-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -107,7 +107,7 @@
             {
               "node_type": "item",
               "title": "Large Language Model Course",
-              "description": null,
+              "description": "mlabonne/llm-course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
                 "open_issues": 92,
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 83263,
+                "stars": 83269,
                 "topics": [
                   "course",
                   "large-language-models",
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "Awesome Machine Learning",
-              "description": null,
+              "description": "josephmisiti/awesome-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -162,7 +162,7 @@
             {
               "node_type": "item",
               "title": "Awesome Deep Learning",
-              "description": null,
+              "description": "ChristosChristofidis/awesome-deep-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29001,
+                "stars": 29002,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -193,7 +193,7 @@
             {
               "node_type": "item",
               "title": "Awesome LLM",
-              "description": null,
+              "description": "Hannibal046/Awesome-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -203,10 +203,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 469,
+                "open_issues": 470,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27434,
+                "stars": 27433,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -214,7 +214,7 @@
             {
               "node_type": "item",
               "title": "Awesome Computer Vision",
-              "description": null,
+              "description": "jbhuang0604/awesome-computer-vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -235,7 +235,7 @@
             {
               "node_type": "item",
               "title": "Awesome Production Machine Learning",
-              "description": null,
+              "description": "EthicalML/awesome-production-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -244,11 +244,11 @@
                 "id": 144863525,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:16:45Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-03T00:57:02Z",
+                "open_issues": 37,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20966,
+                "stars": 20967,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "Awesome NLP",
-              "description": null,
+              "description": "keon/awesome-nlp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,10 +286,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-07T10:42:10Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 19048,
+                "stars": 19049,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -306,7 +306,7 @@
             {
               "node_type": "item",
               "title": "Awesome Machine Learning & Deep Learning Tutorials",
-              "description": null,
+              "description": "ujjwalkarn/Machine-Learning-Tutorials",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -319,7 +319,7 @@
                 "open_issues": 49,
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18242,
+                "stars": 18241,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -339,7 +339,7 @@
             {
               "node_type": "item",
               "title": "Awesome Generative AI",
-              "description": null,
+              "description": "steven2358/awesome-generative-ai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,10 +349,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-16T21:39:51Z",
-                "open_issues": 783,
+                "open_issues": 786,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12703,
+                "stars": 12704,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -369,7 +369,7 @@
             {
               "node_type": "item",
               "title": "Awesome Deep Vision",
-              "description": null,
+              "description": "kjw0612/awesome-deep-vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -390,7 +390,7 @@
             {
               "node_type": "item",
               "title": "Awesome Visual Transformer",
-              "description": null,
+              "description": "dk-liang/Awesome-Visual-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -418,7 +418,7 @@
             {
               "node_type": "item",
               "title": "Awesome Image Classification",
-              "description": null,
+              "description": "weiaicunzai/awesome-image-classification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,7 +446,7 @@
             {
               "node_type": "item",
               "title": "Awesome Deep Learning Resources",
-              "description": null,
+              "description": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "Awesome Document Understanding",
-              "description": null,
+              "description": "tstanislawek/awesome-document-understanding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "Awesome Software Engineering for Machine Learning",
-              "description": null,
+              "description": "SE-ML/awesome-seml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -545,7 +545,7 @@
             {
               "node_type": "item",
               "title": "Awesome Deep Learning for Natural Language Processing (NLP)",
-              "description": null,
+              "description": "brianspiering/awesome-dl4nlp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -566,7 +566,7 @@
             {
               "node_type": "item",
               "title": "Awesome Natural Language Generation",
-              "description": null,
+              "description": "accelerated-text/awesome-nlg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +593,7 @@
             {
               "node_type": "item",
               "title": "Awesome XAI",
-              "description": null,
+              "description": "altamiracorp/awesome-xai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +621,7 @@
             {
               "node_type": "item",
               "title": "Awesome Jupyter GLAM",
-              "description": null,
+              "description": "LibraryCarpentry/awesome-jupyter-glam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
                 "open_issues": 198,
                 "owner": "datalab-to",
                 "repo": "surya",
-                "stars": 21446,
+                "stars": 21447,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:40:04.906Z",
+    "last_updated": "2026-10-03T04:32:57.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️",
