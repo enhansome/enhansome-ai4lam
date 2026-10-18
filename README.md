@@ -77,7 +77,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Natural language processing
 
-* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,737 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-10-10 – by Elena Voita
+* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,738 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-10-10 – by Elena Voita
 * [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook#readme) ⭐ 607 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-01-31
 * [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme) ⭐ 570 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-17
 * [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
@@ -88,7 +88,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Generative AI
 
-* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 83,713 | 🐛 92 | 📅 2026-02-05
+* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 83,877 | 🐛 92 | 📅 2026-02-05
 * [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 * [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 * [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
@@ -108,14 +108,14 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Other "awesome" lists in AI and ML
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,601 | 🐛 23 | 🌐 Python | 📅 2026-10-13
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 29,057 | 🐛 91 | 📅 2025-05-26
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,610 | 🐛 23 | 🌐 Python | 📅 2026-10-13
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 29,061 | 🐛 91 | 📅 2025-05-26
 * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,442 | 🐛 480 | 📅 2025-07-31
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,602 | 🐛 99 | 📅 2024-05-17
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 21,014 | 🐛 42 | 📅 2026-10-08
-* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 19,080 | 🐛 2 | 📅 2026-10-12
-* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,280 | 🐛 49 | 📅 2024-06-12
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,739 | 🐛 950 | 📅 2026-10-15
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,605 | 🐛 99 | 📅 2024-05-17
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 21,017 | 🐛 42 | 📅 2026-10-08
+* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 19,084 | 🐛 2 | 📅 2026-10-12
+* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,286 | 🐛 49 | 📅 2024-06-12
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,740 | 🐛 967 | 📅 2026-10-15
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,191 | 🐛 48 | 📅 2023-08-15
 * [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme) ⭐ 3,589 | 🐛 3 | 📅 2025-01-07
 * [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme) ⭐ 3,064 | 🐛 1 | 📅 2022-04-20
@@ -326,4 +326,4 @@ The contents of this page are licensed under the [Creative Commons CC0 1.0 Unive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
