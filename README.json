@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10738,
+                "stars": 10740,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -117,10 +117,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-05T13:09:26Z",
-                "open_issues": 92,
+                "open_issues": 91,
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 83877,
+                "stars": 84365,
                 "topics": [
                   "course",
                   "large-language-models",
@@ -150,11 +150,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T00:31:03Z",
+                "last_commit": "2026-10-19T13:14:32Z",
                 "open_issues": 23,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74610,
+                "stars": 74617,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -175,7 +175,7 @@
                 "open_issues": 91,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29061,
+                "stars": 29067,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -206,7 +206,7 @@
                 "open_issues": 480,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27442,
+                "stars": 27443,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -244,8 +244,8 @@
                 "id": 144863525,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-08T06:45:24Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-18T18:09:27Z",
+                "open_issues": 41,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
                 "stars": 21017,
@@ -289,7 +289,7 @@
                 "open_issues": 2,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 19084,
+                "stars": 19088,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -319,7 +319,7 @@
                 "open_issues": 49,
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18286,
+                "stars": 18287,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -349,10 +349,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-15T21:22:18Z",
-                "open_issues": 967,
+                "open_issues": 984,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12740,
+                "stars": 12742,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -488,7 +488,7 @@
                 "open_issues": 16,
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
-                "stars": 1543,
+                "stars": 1544,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:51:11.388Z",
+    "last_updated": "2026-10-19T19:27:30.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️",
@@ -939,7 +939,7 @@
       "language": "SCSS",
       "license": "CC0-1.0",
       "last_commit": "2024-06-17T16:09:28Z",
-      "open_issues": 93,
+      "open_issues": 94,
       "owner": "AI4LAM",
       "repo": "awesome-ai4lam",
       "stars": 191,
