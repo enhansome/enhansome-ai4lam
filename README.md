@@ -77,9 +77,9 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Natural language processing
 
-* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,749 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-22 – by Elena Voita
+* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,750 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-29 – by Elena Voita
 * [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook#readme) ⭐ 607 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-01-31
-* [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme) ⭐ 570 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-17
+* [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme) ⭐ 569 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-17
 * [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
 * [NLP accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 * [Overview of deep learning techniques applied to NLP (2018)](https://nlpoverview.com/index.html)
@@ -88,7 +88,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Generative AI
 
-* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 84,742 | 🐛 92 | 📅 2026-02-05
+* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 84,762 | 🐛 92 | 📅 2026-02-05
 * [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 * [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 * [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
@@ -108,14 +108,14 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Other "awesome" lists in AI and ML
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,683 | 🐛 28 | 🌐 Python | 📅 2026-10-27
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 29,102 | 🐛 90 | 📅 2025-05-26
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,688 | 🐛 31 | 🌐 Python | 📅 2026-10-27
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 29,109 | 🐛 90 | 📅 2025-05-26
 * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,463 | 🐛 489 | 📅 2025-07-31
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,622 | 🐛 99 | 📅 2024-05-17
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 21,047 | 🐛 42 | 📅 2026-10-28
-* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 19,108 | 🐛 7 | 📅 2026-10-12
-* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,318 | 🐛 49 | 📅 2024-06-12
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,782 | 🐛 1,139 | 📅 2026-10-24
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,625 | 🐛 99 | 📅 2024-05-17
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 21,058 | 🐛 42 | 📅 2026-10-28
+* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 19,113 | 🐛 7 | 📅 2026-10-12
+* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,322 | 🐛 49 | 📅 2024-06-12
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,786 | 🐛 1,162 | 📅 2026-10-24
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,190 | 🐛 47 | 📅 2023-08-15
 * [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme) ⭐ 3,591 | 🐛 3 | 📅 2025-01-07
 * [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme) ⭐ 3,065 | 🐛 1 | 📅 2022-04-20
@@ -134,7 +134,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 ### Document analysis, transcription, and labeling
 
-* [Surya](https://github.com/VikParuchuri/surya#readme) ⭐ 21,546 | 🐛 201 | 🌐 Python | 📅 2026-10-23 – multilingual document OCR toolkit with line-level text detection
+* [Surya](https://github.com/VikParuchuri/surya#readme) ⭐ 21,548 | 🐛 202 | 🌐 Python | 📅 2026-10-29 – multilingual document OCR toolkit with line-level text detection
 * [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2026-03-19 – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 * [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2024-08-02 – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
 * [Arkindex](https://teklia.com/blog/arkindex-goes-open-source/) – open-source platform for managing & processing collections of digitized documents
@@ -195,8 +195,8 @@ There are many (G)LAM-related datasets on Hugging Face. The following links will
 
 ### Datasets available elsewhere
 
-* [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme) ⭐ 6,005 | 🐛 12 | 📅 2023-02-15 – free/public domain datasets with text data for use in NLP
-* [Gensim datasets](https://github.com/piskvorky/gensim-data#readme) ⭐ 1,060 | 🐛 20 | 🌐 Python | 📅 2018-03-16 – repository of datasets for unstructured text processing
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme) ⭐ 6,006 | 🐛 12 | 📅 2023-02-15 – free/public domain datasets with text data for use in NLP
+* [Gensim datasets](https://github.com/piskvorky/gensim-data#readme) ⭐ 1,061 | 🐛 20 | 🌐 Python | 📅 2018-03-16 – repository of datasets for unstructured text processing
 * [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – subject search in Zenodo
 * [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 * [Kaggle datasets](https://www.kaggle.com/datasets)
@@ -326,4 +326,4 @@ The contents of this page are licensed under the [Creative Commons CC0 1.0 Unive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
