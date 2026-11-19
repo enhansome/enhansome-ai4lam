@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10799,
+                "stars": 10800,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -42,7 +42,7 @@
                 "open_issues": 4,
                 "owner": "NirantK",
                 "repo": "NLP_Quickbook",
-                "stars": 608,
+                "stars": 607,
                 "topics": [
                   "ensemble",
                   "language-processing",
@@ -75,7 +75,7 @@
                 "open_issues": 0,
                 "owner": "hb20007",
                 "repo": "hands-on-nltk-tutorial",
-                "stars": 570,
+                "stars": 569,
                 "topics": [
                   "binder",
                   "didactic",
@@ -120,7 +120,7 @@
                 "open_issues": 92,
                 "owner": "mlabonne",
                 "repo": "llm-course",
-                "stars": 85157,
+                "stars": 85163,
                 "topics": [
                   "course",
                   "large-language-models",
@@ -154,7 +154,7 @@
                 "open_issues": 35,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74850,
+                "stars": 74851,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -172,10 +172,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-05-26T12:28:00Z",
-                "open_issues": 92,
+                "open_issues": 91,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29209,
+                "stars": 29212,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -203,10 +203,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 510,
+                "open_issues": 511,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27506,
+                "stars": 27508,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -248,7 +248,7 @@
                 "open_issues": 44,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 21113,
+                "stars": 21114,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 16,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 19173,
+                "stars": 19174,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -319,7 +319,7 @@
                 "open_issues": 48,
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18374,
+                "stars": 18376,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -349,10 +349,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-17T13:31:45Z",
-                "open_issues": 1435,
+                "open_issues": 1444,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12843,
+                "stars": 12848,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -382,7 +382,7 @@
                 "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11197,
+                "stars": 11196,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -431,7 +431,7 @@
                 "open_issues": 2,
                 "owner": "weiaicunzai",
                 "repo": "awesome-image-classification",
-                "stars": 3073,
+                "stars": 3072,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -459,7 +459,7 @@
                 "open_issues": 15,
                 "owner": "guillaume-chevalier",
                 "repo": "Awesome-Deep-Learning-Resources",
-                "stars": 1822,
+                "stars": 1821,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -530,7 +530,7 @@
                 "open_issues": 9,
                 "owner": "SE-ML",
                 "repo": "awesome-seml",
-                "stars": 1377,
+                "stars": 1376,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -555,10 +555,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-01-24T00:32:10Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "brianspiering",
                 "repo": "awesome-dl4nlp",
-                "stars": 1312,
+                "stars": 1311,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:28.746Z"
@@ -919,7 +919,7 @@
                 "open_issues": 20,
                 "owner": "piskvorky",
                 "repo": "gensim-data",
-                "stars": 1062,
+                "stars": 1061,
                 "topics": [
                   "corpora",
                   "dataset",
@@ -943,7 +943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:33:54.713Z",
+    "last_updated": "2026-11-19T21:46:09.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️",
