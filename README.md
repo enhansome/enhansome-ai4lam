@@ -77,7 +77,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Natural language processing
 
-* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,801 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-11-21 – by Elena Voita
+* [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) ⭐ 10,802 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-11-21 – by Elena Voita
 * [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook#readme) ⭐ 607 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-01-31
 * [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme) ⭐ 569 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-17
 * [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
@@ -88,7 +88,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Generative AI
 
-* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 85,171 | 🐛 92 | 📅 2026-02-05
+* [Large Language Model Course](https://github.com/mlabonne/llm-course#readme) ⭐ 85,178 | 🐛 92 | 📅 2026-02-05
 * [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 * [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 * [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
@@ -108,20 +108,20 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Other "awesome" lists in AI and ML
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,871 | 🐛 36 | 🌐 Python | 📅 2026-11-21
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 29,217 | 🐛 91 | 📅 2025-05-26
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,515 | 🐛 511 | 📅 2025-07-31
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,662 | 🐛 99 | 📅 2024-05-17
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 21,121 | 🐛 44 | 📅 2026-11-12
-* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 19,178 | 🐛 1 | 📅 2026-11-20
-* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,378 | 🐛 48 | 📅 2024-06-12
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,851 | 🐛 1,457 | 📅 2026-11-20
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,196 | 🐛 47 | 📅 2023-08-15
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,882 | 🐛 38 | 🌐 Python | 📅 2026-11-21
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 29,220 | 🐛 91 | 📅 2025-05-26
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) ⭐ 27,516 | 🐛 510 | 📅 2025-07-31
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,665 | 🐛 99 | 📅 2024-05-17
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme) ⭐ 21,124 | 🐛 44 | 📅 2026-11-12
+* [Awesome NLP](https://github.com/keon/awesome-nlp#readme) ⭐ 19,180 | 🐛 1 | 📅 2026-11-20
+* [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,380 | 🐛 48 | 📅 2024-06-12
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,855 | 🐛 1,456 | 📅 2026-11-20
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,197 | 🐛 47 | 📅 2023-08-15
 * [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme) ⭐ 3,590 | 🐛 4 | 📅 2025-01-07
-* [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme) ⭐ 3,072 | 🐛 2 | 📅 2022-04-20
+* [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme) ⭐ 3,073 | 🐛 2 | 📅 2022-04-20
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme) ⭐ 1,821 | 🐛 15 | 📅 2024-01-18
 * [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding#readme) ⭐ 1,546 | 🐛 17 | 📅 2023-06-02
-* [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) ⭐ 1,376 | 🐛 9 | 📅 2024-03-26
+* [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) ⭐ 1,375 | 🐛 9 | 📅 2024-03-26
 * [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp#readme) ⭐ 1,311 | 🐛 1 | 📅 2026-01-24
 * [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme) ⭐ 484 | 🐛 0 | 📅 2026-09-22
 * [Awesome XAI](https://github.com/altamiracorp/awesome-xai#readme) ⭐ 200 | 🐛 2 | 📅 2021-05-04
@@ -134,7 +134,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 ### Document analysis, transcription, and labeling
 
-* [Surya](https://github.com/VikParuchuri/surya#readme) ⭐ 21,608 | 🐛 2 | 🌐 Python | 📅 2026-11-13 – multilingual document OCR toolkit with line-level text detection
+* [Surya](https://github.com/VikParuchuri/surya#readme) ⭐ 21,611 | 🐛 2 | 🌐 Python | 📅 2026-11-13 – multilingual document OCR toolkit with line-level text detection
 * [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2026-03-19 – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 * [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2024-08-02 – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
 * [Arkindex](https://teklia.com/blog/arkindex-goes-open-source/) – open-source platform for managing & processing collections of digitized documents
@@ -326,4 +326,4 @@ The contents of this page are licensed under the [Creative Commons CC0 1.0 Unive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
